@@ -9,6 +9,6 @@ implementación, cuyas condiciones de entrega se darán posteriormente en un seg
 enunciado. El diseño se hará utilizando los conceptos de programación orientada a objetos,
 que incluyen herencia y polimorfismo.
 <br>
-
+En la carpeta Doc se encuentran los pdf con las especificaciones a implementar.
 
 <img width="645" alt="Umlpng" src="https://user-images.githubusercontent.com/59884602/160297582-35655434-e474-49e5-a44c-1ed30d463d59.png">
