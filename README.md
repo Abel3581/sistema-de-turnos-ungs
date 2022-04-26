@@ -1,9 +1,10 @@
 
 ![image](https://user-images.githubusercontent.com/59884602/165205797-02564640-252c-4ae7-a94a-a0932ba60c24.jpg#gh-dark-mode-only)
+
 # sistema-de-turnos-ungs  
 
-# JAVA
-Programación II - Trabajo Práctico Integrador 2do. Cuatrimestre 2021 " UNGS ".
+## JAVA
+### Programación II - Trabajo Práctico Integrador 2do. Cuatrimestre 2021 " UNGS ".
 
 Este Trabajo Práctico consta de dos etapas. La primera requerirá la entrega del análisis del
 problema y el diseño de la solución propuesta, o sea la especificación de los TADs necesarios,
