@@ -1,4 +1,5 @@
-# sistema-de-turnos-ungs
+# sistema-de-turnos-ungs  ![image](https://user-images.githubusercontent.com/59884602/165205797-02564640-252c-4ae7-a94a-a0932ba60c24.jpg)
+
 # JAVA
 Programación II - Trabajo Práctico Integrador 2do. Cuatrimestre 2021 " UNGS ".
 
@@ -11,4 +12,4 @@ que incluyen herencia y polimorfismo.
 <br>
 En la carpeta Doc se encuentran los pdf con las especificaciones a implementar.
 
-![<img width="645" alt="Umlpng" src="https://user-images.githubusercontent.com/59884602/160297582-35655434-e474-49e5-a44c-1ed30d463d59.png">#gh-dark-mode-only)
+<img width="645" alt="Umlpng" src="https://user-images.githubusercontent.com/59884602/160297582-35655434-e474-49e5-a44c-1ed30d463d59.png">
